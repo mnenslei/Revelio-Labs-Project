@@ -5,6 +5,8 @@ import '../styling/Header.css'
 import '../styling/index.css'
 
 const Header = () => {
+
+    
     return (
         <div className='header-container'>
             <div className='header-left'>

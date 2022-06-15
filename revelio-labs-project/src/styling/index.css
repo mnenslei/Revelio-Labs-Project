@@ -16,6 +16,6 @@ code {
   border-top: solid #FE7139;
 }
 
-.body-container{
-  min-height: 25rem;
+.body-container {
+  max-height: 70%;
 }
