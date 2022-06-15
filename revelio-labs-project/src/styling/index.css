@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header-container{
+  border-top: solid #FE7139;
+}
+
+.body-container {
+  max-height: 70%;
+}

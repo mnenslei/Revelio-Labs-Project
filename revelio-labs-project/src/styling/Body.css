@@ -1,0 +1,75 @@
+.body-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 3%;
+    flex-wrap: nowrap;
+}
+
+.top-line-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.top-line-container h3{
+    font-family: 'Ubuntu Mono';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.top-line-container h4{
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-right: 1%;
+}
+
+.top-line-container p{
+    font-family: 'Open Sans';
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-left: 2rem;
+}
+.top-line-container a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.bottom-line-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: .75rem;
+    white-space:nowrap;
+}
+
+.bottom-line-container p{
+    font-family: 'Open Sans';
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.show-more {
+    margin-top: 1%;
+    margin-left: 5%;
+    width: 104px;
+    height: 34px;
+    left: 129px;
+    top: 974px;
+    background: #FE7139;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: white;
+    border: none;
+}
